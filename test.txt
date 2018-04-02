@@ -1,1 +1,2 @@
-This is an excellent test for github demo
+This is an excellent test for github demo.
+Excellent this is how we shoudl do things in developing software.
